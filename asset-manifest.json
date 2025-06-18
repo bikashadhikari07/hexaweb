@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60805dc3.css",
+    "main.js": "/static/js/main.7dc389f0.js",
+    "static/media/epal-logo.png": "/static/media/epal-logo.0994319474569c978948.png",
+    "static/media/logo.png": "/static/media/logo.e1bba5b482a477d31e01.png",
+    "static/media/hexaultra.jpg": "/static/media/hexaultra.5e510ab299696f26b237.jpg",
+    "static/media/iso-urs.png": "/static/media/iso-urs.15fa27a3dac9c57889fe.png",
+    "static/media/hexamaster.jpg": "/static/media/hexamaster.e37fe2bdf77bb907c502.jpg",
+    "static/media/skylink.jpg": "/static/media/skylink.e85a48b5579320ac2729.jpg",
+    "index.html": "/index.html",
+    "main.60805dc3.css.map": "/static/css/main.60805dc3.css.map",
+    "main.7dc389f0.js.map": "/static/js/main.7dc389f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60805dc3.css",
+    "static/js/main.7dc389f0.js"
+  ]
+}
